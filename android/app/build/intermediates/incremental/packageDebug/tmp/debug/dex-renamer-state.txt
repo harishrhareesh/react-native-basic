@@ -1,0 +1,4 @@
+#Sun Feb 21 15:35:00 IST 2021
+base.0=/Users/harish/projects/react-native-basic/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
